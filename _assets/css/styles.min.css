@@ -97,4 +97,5 @@ header img{float:none;clear:left;width:50%;height:50%}
 #content dd:after{content:', '}
 #content dd:last-child:after{content:'.'}
 #content .publications ol{padding-left:0}
+.print-hidden {display:none;}
 }
